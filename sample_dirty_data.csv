@@ -1,0 +1,14 @@
+Student_ID,Name,Age,Gender,Marks,City,Enrollment_Date
+101.0,Ananya,21,Female,85,Kolkata,2023-07-01
+102.0,Rahul,22,Male,,Delhi,2023-07-03
+103.0,,20,Female,78,Mumbai,2023-07-05
+104.0,Arjun,,Male,88,Bangalore,2023-07-07
+105.0,Meera,23,Female,,Chennai,2023-07-09
+106.0,Suresh,twenty four,Male,91,Hyderabad,2023-07-11
+107.0,Priya,22,Female,84,,2023-07-13
+108.0,  Amit  ,21,Male,76,Pune,
+109.0,Kavya,,Female,89,Kolkata,2023-07-17
+110.0,John,24,Male,absent,Delhi,2023-07-19
+,,,,,,
+111.0,Ritu,23,Female,95,Mumbai,2023-07-21
+112.0,, ,Female,82,Bangalore,2023-07-23
