@@ -1,0 +1,1 @@
+This repo is for the beginners to learn machine learning classification, regression, clustering and data handling. The datasets used are mostly publicly available. All the notebooks are of google colaboratory. 
